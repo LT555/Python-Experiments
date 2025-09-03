@@ -20,4 +20,4 @@ I am a student and employee of Mississippi State University and I have a keen in
 
 This photograph is the Deep Delta Farmers' Market Trailer in Rolling Fork, MS. The market day was created to recreation, socialization, and healthy living after the disatrous 2023 *EF4* tornado.
 
-![My Photograph]("(https://github.com/LT555/Python-Experiments/blob/main/market%20day.jpg)" "Market Day in Rolling Fork, MS")
+![My Photograph]("https://github.com/LT555/Python-Experiments/blob/main/market%20day.jpg" "Market Day in Rolling Fork, MS")
